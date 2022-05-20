@@ -1,4 +1,4 @@
-# TraversyMediaAngular Tracker App
+# Traversy Media Angular Task Tracker App
 
 <img src="./src/assets/AppShot.JPG" alt="screenshot" width="400" height="400"/>
 
